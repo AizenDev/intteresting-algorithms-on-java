@@ -1,4 +1,4 @@
-package com.company;
+package com.company.graphs;
 
 class Queue {
     private int[] arr;

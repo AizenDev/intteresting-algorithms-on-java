@@ -1,4 +1,4 @@
-package com.company;
+package com.company.graphs;
 
 public class Graph {
     private int maxN = 10;
